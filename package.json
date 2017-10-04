@@ -1,0 +1,31 @@
+{
+  "name": "eve-tool-react",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.16.2",
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "history": "^4.7.2",
+    "lodash": "^4.17.4",
+    "prop-types": "^15.5.10",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-redux": "^5.0.6",
+    "react-router-dom": "^4.2.2",
+    "react-router-redux": "^5.0.0-alpha.6",
+    "react-scripts": "1.0.12",
+    "redux": "^3.7.2",
+    "redux-devtools-extension": "^2.13.2",
+    "redux-persist": "^4.9.1",
+    "redux-persist-transform-compress": "^4.2.0",
+    "redux-thunk": "^2.2.0",
+    "swagger-client": "^3.0.20"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
